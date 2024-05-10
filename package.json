@@ -1,7 +1,7 @@
 {
-  "name": "data-neuron-assignment-backend",
+  "name": "resizeable-layout-backend",
   "version": "1.0.0",
-  "description": "Backend for data-neuron-assignment",
+  "description": "Backend for resizeable-layout-assignment",
   "type": "module",
   "main": "index.js",
   "scripts": {
